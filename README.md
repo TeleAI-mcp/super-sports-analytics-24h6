@@ -1,2 +1,3 @@
-# super-sports-analytics-24h6
+# Super Sports Analytics 24H6
+
 A sports data analytics platform for modern development workflows.
